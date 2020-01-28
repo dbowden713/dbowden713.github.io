@@ -1,3 +1,10 @@
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+.pnp.*
+
+
+### TEMPLATE ###
 
 # Created by https://www.gitignore.io/api/node,sass,react,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=node,sass,react,visualstudiocode
